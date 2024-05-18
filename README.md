@@ -1,2 +1,2 @@
-# web-design-studies
- A repository containing my studies on web design showing my websites
+# Web Design Studies
+ In this repository, you will find web design projects.
